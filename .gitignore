@@ -1,0 +1,5 @@
+*.txt
+*.log
+venv
+*.htm
+.ipynb_checkpoints/
